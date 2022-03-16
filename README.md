@@ -1,7 +1,7 @@
 # Fluid Simulator
 Fluid Simulation in C++ and OpenGL by Sean Holloway
 
-For more information, see the full write-up [here.](https://blog.seanholloway.com/2021/06/03/fluid-dynamics-simulation-in-c-with-opengl/)
+For more information, see the full write-up [here.](https://blog.seanholloway.com/2021/09/09/fluid-dynamics-simulation-in-c-and-opengl/)
 
 ## Overview
 This project is a two-dimensional fluid dynamics simulator capable of modeling the dynamics of two mixed fluids, including convection and advection via the Navier-Stokes equations, molecular diffusion via Fick's law, thermal diffusion via Fourier's law, and both density-based and thermal buoyancy. 
